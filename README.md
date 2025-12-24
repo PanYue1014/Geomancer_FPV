@@ -10,15 +10,11 @@ The project focuses on being a clean, runnable **prototype** you can demo, recor
 
 ## Demo
 
+![demo](assets/demo.gif)
+
 Record a 30–60s clip and drop it here:
 
 - `assets/demo.gif`
-
-Then embed it in this README:
-
-```md
-![demo](assets/demo.gif)
-```
 
 ---
 
