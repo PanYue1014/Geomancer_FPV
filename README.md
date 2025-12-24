@@ -12,8 +12,6 @@ The project focuses on being a clean, runnable **prototype** you can demo, recor
 
 ![demo](assets/demo.gif)
 
-Record a 30–60s clip and drop it here:
-
 - `assets/demo.gif`
 
 ---
