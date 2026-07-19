@@ -4,8 +4,6 @@ A **Python + Ursina** first‑person exploration prototype that maps “higher�
 - **w = Layer** (discrete parallel worlds)
 - **v = Phase** (continuous world state)
 
-The project focuses on being a clean, runnable **prototype** you can demo, record, and cite on a CV.
-
 ---
 
 ## Demo
